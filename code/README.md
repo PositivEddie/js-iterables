@@ -12,7 +12,7 @@
 
 3. Copy and refactor problem 2 using a `while` loop
 
-4. Add to `myProfileObject` the properties and values ('key, value pairs'): 
+4. Add to `myProfileObject` the properties and values ('key, value pairs'):
   1. 'school' set to 'School Of Hard Knocks'
   2. 'location' set to 'Bay Area'
   3. 'name' set to your name
@@ -24,7 +24,7 @@
   2. Your `place of birth`: city, state (or equivalent), country
   3. Your `hobby` or favorite activity
   4. A method that prints: 'My first name is [first name]' and my last name is '[last name]'
-    - This method must use the 
+    - This method must use the
 
 **NOTE: test your function by passing in the `myProfileObject` as a parameter and console.log the result**
 
@@ -48,5 +48,3 @@
 3. Explore the problem and discover techniques or patterns that might be useful
 4. Generate a simple plan that should solve the problem
 5. Turn that plan into steps- put your pseudocode skills to use!
-
-

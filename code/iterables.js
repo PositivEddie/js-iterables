@@ -35,7 +35,8 @@ function addObject(name,hobby,place_of_birth) {
 }
 var objectA = addObject('Edward Gardner','javascript','Hayward, CA');
 console.log(objectA.printName());
-
-
+///////////////////////////
+console.log('6. ');
+//Almost got started on this...
 
 console.log('Let\'s start Hacking!');
